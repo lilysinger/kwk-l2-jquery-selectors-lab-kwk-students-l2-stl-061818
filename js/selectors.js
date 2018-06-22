@@ -8,7 +8,7 @@ function liInOlSelector(){
   return $('ol li')
 }
 
-function linkSelector('a'){
-  return $('#box4')
+function linkSelector(){
+  return $('#box4 box5')
 
 }
